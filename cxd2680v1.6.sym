@@ -1,0 +1,17 @@
+start_service_mode = 0x51fe5;
+
+tron_ter_task = 0x0007c5c1;
+tron_dly_tsk = 0x7c201;
+
+_sys_ltime = 0x02001068;
+
+queue_direct_display_cmd = 0x0003ecbd;
+
+_key_state = 0x0200087f;
+
+//__aeabi_uidiv = 0x0007cc80 + 1;
+//__aeabi_idiv = 0x7cba8 + 1;
+//__aeabi_idivmod = 0x0;
+//__aeabi_uidivmod = 0x0;
+
+//memset = 0x0007cc44 + 1;
