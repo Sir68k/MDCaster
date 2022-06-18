@@ -4,6 +4,10 @@ A simple raycaster demo for Sony NetMD portables, currently targetting **v1.6 CX
 
 This application serves as a template project for building code for the Sony NetMD portables, while also demonstrating the results from the firmware reverse engineering efforts (see https://github.com/Sir68k/md-firmware).
 
+Demo:
+
+[![Demo](https://img.youtube.com/vi/7OHny4QqUiI/0.jpg)](https://www.youtube.com/watch?v=7OHny4QqUiI)
+
 # About
 
 I started this hoping to make a full Doom like game, but in the end 30x7 pixels is just too small for a game like this. I just left it with the basic raycaster.
