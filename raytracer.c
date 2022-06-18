@@ -1,3 +1,5 @@
+// oops, this file should have been called raycaster.c :P
+
 #include <stdio.h>
 #include <stdint.h>
 
