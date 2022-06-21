@@ -1,4 +1,4 @@
-# MDoom
+# MDCaster (a.k.a. MDoom)
 
 A simple raycaster demo for Sony NetMD portables, currently targetting **v1.6 CXD2680** devices with single row displays. 
 
